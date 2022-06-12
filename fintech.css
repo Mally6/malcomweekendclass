@@ -1,0 +1,35 @@
+/* body{
+    background-color: blueviolet;} 
+*/
+.firstdiv{
+    width:20%;
+    /* background-color: pink; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80%;  
+}
+.my_account{
+    background-color:rgb(155, 211, 155) ;
+    color:aliceblue ;
+    text-align: center;
+    width: 45px;
+    height: 30px;
+    border-radius: 60%;
+    padding-top: 5px;
+}
+section{
+    margin-top: 160px;
+    /* background-color: aqua; */
+    text-align: center;
+}
+input{
+    border-radius: 50px;
+    width: 40%;
+    height: 40px;
+    box-shadow: 2px 4px 10px gray;
+    border: none;
+    text-align: center;
+}
+.seconddiv{
+    background-color: aquamarine;
+}
